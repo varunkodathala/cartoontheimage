@@ -4,3 +4,7 @@ It Cartoons given image!
 # Example
 
 ![Image](final_image.jpg)
+
+![Image](don.jpg)
+
+![Image](varun.jpeg)
