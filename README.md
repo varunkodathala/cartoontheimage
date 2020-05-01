@@ -3,4 +3,4 @@ It Cartoons given image!
 
 # Example
 
-![Image]('final_image.jpg')
+![Image](final_image.jpg)
